@@ -1,0 +1,29 @@
+body {
+  
+ margin:none;
+ padding:none;
+    font-size: 15pt;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align:center;
+    align-items: center;
+    background-image: url("pink.jpg");
+    background-size: cover;
+    position:relative;
+    top:100px;
+    background-color:brown;
+}
+button{
+  position:relative;
+  bottom:170px;
+  right:80px;
+  background-color: hotpink
+  
+}
+#gif{
+  position: relative;
+  left :70px;
+  top:10px;
+}
+h2 {
+  color:hotpink;
+}
